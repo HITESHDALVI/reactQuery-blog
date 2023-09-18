@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+}
+h2 {
+  color: rgba(231, 156, 17, 0.79);
+}

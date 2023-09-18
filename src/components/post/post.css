@@ -1,0 +1,40 @@
+.action-btn {
+  background: transparent;
+  border: none;
+  outline: none;
+}
+
+.action-btn svg {
+  cursor: pointer;
+}
+.back-btn {
+  color: #f18900;
+  font-size: 17px;
+  cursor: pointer;
+  margin-left: 5px;
+}
+
+.post-list {
+  background-color: #e7dcd3;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 25px 0;
+  -webkit-box-shadow: -11px 13px 21px -11px #00000066;
+  -moz-box-shadow: -11px 13px 21px -11px #00000066;
+  box-shadow: -11px 13px 21px -11px #00000066;
+  width: 75vw;
+}
+.title {
+  font-size: 17px;
+  color: steelblue;
+  cursor: pointer;
+}
+.back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.post-details {
+  color: rgb(10, 155, 17);
+  text-transform: capitalize;
+}
